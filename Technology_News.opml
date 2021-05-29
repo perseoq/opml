@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeder - RSS Feed Reader</title>
+    <ownerEmail>drhenrycn@gmail.com</ownerEmail>
+    <dateCreated>2021-05-29T17:12:51Z</dateCreated>
+  </head>
+  <body>
+    <outline text="BizTech Magazine" title="BizTech Magazine" type="rss" xmlUrl="http://feeds.feedburner.com/BizTechMagazine" htmlUrl="http://www.biztechmagazine.com/" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.biztechmagazine.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Latest IEC e-tech articles" title="Latest IEC e-tech articles" type="rss" xmlUrl="https://etech.iec.ch/feed" htmlUrl="https://etech.iec.ch/" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/etech.iec.ch" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="ACCIONA I'MNOVATION #hub: todo sobre innovación" title="ACCIONA I'MNOVATION #hub: todo sobre innovación" type="rss" xmlUrl="https://www.imnovation-hub.com/es/feed/" htmlUrl="https://www.imnovation-hub.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.imnovation-hub.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Xataka" title="Xataka" type="rss" xmlUrl="http://feeds.weblogssl.com/xataka2" htmlUrl="http://www.xataka.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.xataka.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Genbeta" title="Genbeta" type="rss" xmlUrl="http://feeds.weblogssl.com/genbeta" htmlUrl="https://www.genbeta.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.genbeta.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Xataka Ciencia" title="Xataka Ciencia" type="rss" xmlUrl="http://feeds.weblogssl.com/xatakaciencia" htmlUrl="https://www.xatakaciencia.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.xatakaciencia.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Xataka Movil" title="Xataka Movil" type="rss" xmlUrl="http://feeds.weblogssl.com/xatakamovil" htmlUrl="https://www.xatakamovil.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.xatakamovil.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="ComputerHoy" title="ComputerHoy" type="rss" xmlUrl="https://computerhoy.com/rss_all/all/rss.xml" htmlUrl="https://computerhoy.com/rss/destacado" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/computerhoy.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="WIRED » WIRED" title="WIRED » WIRED" type="rss" xmlUrl="https://www.wired.com/feed/" htmlUrl="http://www.wired.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.wired.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="E&amp;T News" title="E&amp;T News" type="rss" xmlUrl="https://eandt.theiet.org/rss" htmlUrl="http://eandt.theiet.org" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/eandt.theiet.org" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Latest News Articles from Tech Advisor" title="Latest News Articles from Tech Advisor" type="rss" xmlUrl="https://www.techadvisor.com/news/rss" htmlUrl="https://www.techadvisor.com/news/" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.techadvisor.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Latest News, Reviews from Digit.in" title="Latest News, Reviews from Digit.in" type="rss" xmlUrl="http://feeds.feedburner.com/digit/latest-from-digit" htmlUrl="http://www.digit.in" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.digit.in" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Innovation &amp; Tech Today" title="Innovation &amp; Tech Today" type="rss" xmlUrl="https://innotechtoday.com/feed/" htmlUrl="https://innotechtoday.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/innotechtoday.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Geektime" title="Geektime" type="rss" xmlUrl="https://www.geektime.com/rss/" htmlUrl="https://www.geektime.com/" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.geektime.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Trotons Tech Magazine – Technology News, Gadgets and Reviews" title="Trotons Tech Magazine – Technology News, Gadgets and Reviews" type="rss" xmlUrl="https://trotons.com/feed/" htmlUrl="https://trotons.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/trotons.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="Technowize" title="Technowize" type="rss" xmlUrl="https://www.technowize.com/feed/" htmlUrl="https://www.technowize.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.technowize.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+    <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com" rssfr-numPosts="30" rssfr-favicon="https://icons.feedercdn.com/www.technologyreview.com" rssfr-useNotifications="0" rssfr-updateInterval="600000"/>
+  </body>
+</opml>
